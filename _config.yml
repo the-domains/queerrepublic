@@ -1,26 +1,26 @@
+layout_spectrum: 0.2851064
+name: queer republic
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
-typography_spectrum: 0.1222597
 color:
-  saturation: 0.8691434
   brandStrength: 0.5635921
+  lightness: 0.5338964
+  saturation: 0.8691434
   rhythmicContrast: 0.4655761
   brandColors:
-    - '#030507'
-    - '#1F3545'
-    - '#407191'
-    - '#AEAEAE'
-    - '#FDFDFD'
-  lightness: 0.5338964
-layout_spectrum: 0.2851064
-name: queer republic
+    - '#C59F82'
+    - '#FBD4AE'
+    - '#982C12'
+    - '#2C1D1A'
+    - '#375A77'
+typography_spectrum: 0.1222597
